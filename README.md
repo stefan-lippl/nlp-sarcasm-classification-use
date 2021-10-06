@@ -1,14 +1,20 @@
 # Sarcasm Detector via NLP
 
-### Learning how to use Tensorflows Universal Sentence Encoder from Scratch
+## Learn how to use Tensorflows Universal Sentence Encoder from Scratch
 
-With all imports and a step by step guide:
+<br />
 
-- **Step 1**: Import the dataset and get insights about the data
-- **Step 2**: Preprocess the data for later training
-- **Step 3**: Build and train the model using the USE as embedded layer
-- **Step 4**: Evaluate the models metrics
-- **Step 5**: Make some predictions
+### All important steps are listet below:
+
+| Steps      | What's done in this step                                  |
+| ---------- | --------------------------------------------------------- |
+| **Step 1** | Import the dataset and get insights about the data        |
+| **Step 2** | Preprocess the data for later training                    |
+| **Step 3** | Build and train the model using the USE as embedded layer |
+| **Step 4** | Evaluate the models metrics                               |
+| **Step 5** | Make some predictions                                     |
+
+<br />
 
 > If you wanna use a different version of USE got to [Tensorflow Hub - USE](https://tfhub.dev/google/universal-sentence-encoder/4)
 
